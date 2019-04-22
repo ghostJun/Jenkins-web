@@ -19,7 +19,7 @@ class App extends Component {
           <div className="logo-box">
             <img src={logo} className="logo" />
           </div>
-          <h1>React</h1>
+          <h1>React   Tesssss</h1>
         </div>
         <div style={{width: '1000px', margin: '0 auto'}}>
           {this.props.children}
